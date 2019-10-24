@@ -1,0 +1,10 @@
+C:\Users\ABTMBFP\source\repos\AI_NeuralNetwork\AI_NeuralNetwork\obj\Debug\AI_NeuralNetwork.csprojAssemblyReference.cache
+C:\Users\ABTMBFP\source\repos\AI_NeuralNetwork\AI_NeuralNetwork\obj\Debug\AI_NeuralNetwork.Form1.resources
+C:\Users\ABTMBFP\source\repos\AI_NeuralNetwork\AI_NeuralNetwork\obj\Debug\AI_NeuralNetwork.Properties.Resources.resources
+C:\Users\ABTMBFP\source\repos\AI_NeuralNetwork\AI_NeuralNetwork\obj\Debug\AI_NeuralNetwork.csproj.GenerateResource.cache
+C:\Users\ABTMBFP\source\repos\AI_NeuralNetwork\AI_NeuralNetwork\obj\Debug\AI_NeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Users\ABTMBFP\source\repos\AI_NeuralNetwork\AI_NeuralNetwork\bin\Debug\AI_NeuralNetwork.exe.config
+C:\Users\ABTMBFP\source\repos\AI_NeuralNetwork\AI_NeuralNetwork\bin\Debug\AI_NeuralNetwork.exe
+C:\Users\ABTMBFP\source\repos\AI_NeuralNetwork\AI_NeuralNetwork\bin\Debug\AI_NeuralNetwork.pdb
+C:\Users\ABTMBFP\source\repos\AI_NeuralNetwork\AI_NeuralNetwork\obj\Debug\AI_NeuralNetwork.exe
+C:\Users\ABTMBFP\source\repos\AI_NeuralNetwork\AI_NeuralNetwork\obj\Debug\AI_NeuralNetwork.pdb
